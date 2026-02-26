@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/992493466144323854/models/m-b61d92e9fedd42d89bfd0fd7b583da3a/artifacts
+creation_timestamp: 1772116210855
+experiment_id: '992493466144323854'
+last_updated_timestamp: 1772116291380
+model_id: m-b61d92e9fedd42d89bfd0fd7b583da3a
+model_type: null
+name: Voting_Ensemble_model
+source_run_id: e39964434a8a493b85d7bb21d06b2850
+status: 2
+status_message: null

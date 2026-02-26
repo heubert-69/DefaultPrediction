@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/models/m-9990562d601d45418bc17ca321528db0/artifacts
+creation_timestamp: 1772115626312
+experiment_id: '332320804521650964'
+last_updated_timestamp: 1772115634330
+model_id: m-9990562d601d45418bc17ca321528db0
+model_type: null
+name: CatBoostClassifier_model
+source_run_id: 73df14d4e9f748e4a3e95adf40ac28a8
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/bb9d08eabc8645b39cf20ec6d5ab1f0c/artifacts
+end_time: 1772115604093
+entry_point_name: ''
+experiment_id: '332320804521650964'
+lifecycle_stage: active
+run_id: bb9d08eabc8645b39cf20ec6d5ab1f0c
+run_name: LGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772115575392
+status: 3
+tags: []
+user_id: voltsy

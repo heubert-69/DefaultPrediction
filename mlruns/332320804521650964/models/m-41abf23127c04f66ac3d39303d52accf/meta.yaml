@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/models/m-41abf23127c04f66ac3d39303d52accf/artifacts
+creation_timestamp: 1772115569200
+experiment_id: '332320804521650964'
+last_updated_timestamp: 1772115575379
+model_id: m-41abf23127c04f66ac3d39303d52accf
+model_type: null
+name: XGBClassifier_model
+source_run_id: facbf82a2e3e4795bb332f2d96f16983
+status: 2
+status_message: null

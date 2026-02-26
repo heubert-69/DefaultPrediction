@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/models/m-28331f5c4fbc4ef7b901860c48dad448/artifacts
+creation_timestamp: 1772115291150
+experiment_id: '332320804521650964'
+last_updated_timestamp: 1772115300384
+model_id: m-28331f5c4fbc4ef7b901860c48dad448
+model_type: null
+name: Random Forest Classifier_model
+source_run_id: a41621c87ec0490b9ce74d27fb205d1b
+status: 2
+status_message: null

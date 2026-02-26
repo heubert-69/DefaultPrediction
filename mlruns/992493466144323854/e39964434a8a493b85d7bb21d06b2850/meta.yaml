@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DefaultPrediction/mlruns/992493466144323854/e39964434a8a493b85d7bb21d06b2850/artifacts
+end_time: 1772116291435
+entry_point_name: ''
+experiment_id: '992493466144323854'
+lifecycle_stage: active
+run_id: e39964434a8a493b85d7bb21d06b2850
+run_name: Voting_Ensemble
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772116026654
+status: 3
+tags: []
+user_id: voltsy

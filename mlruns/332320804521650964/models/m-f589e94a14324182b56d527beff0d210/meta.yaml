@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/models/m-f589e94a14324182b56d527beff0d210/artifacts
+creation_timestamp: 1772115507220
+experiment_id: '332320804521650964'
+last_updated_timestamp: 1772115518877
+model_id: m-f589e94a14324182b56d527beff0d210
+model_type: null
+name: Gradient Boosting Classifier_model
+source_run_id: 688224f849824b76838cbd3c7d4d8660
+status: 2
+status_message: null

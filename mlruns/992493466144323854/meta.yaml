@@ -1,0 +1,6 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/992493466144323854
+creation_time: 1772116026524
+experiment_id: '992493466144323854'
+last_update_time: 1772116026524
+lifecycle_stage: active
+name: Stock_Default_2026_VotingEnsemble

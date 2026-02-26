@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/models/m-76d9c7db85674f9280a56ed4dfb96d1b/artifacts
+creation_timestamp: 1772115174533
+experiment_id: '332320804521650964'
+last_updated_timestamp: 1772115233468
+model_id: m-76d9c7db85674f9280a56ed4dfb96d1b
+model_type: null
+name: Logistic Regression_model
+source_run_id: d09889f9cbb245d2aeb9eab6633517e0
+status: 2
+status_message: null

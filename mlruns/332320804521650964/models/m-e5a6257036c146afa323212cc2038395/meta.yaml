@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/models/m-e5a6257036c146afa323212cc2038395/artifacts
+creation_timestamp: 1772115595435
+experiment_id: '332320804521650964'
+last_updated_timestamp: 1772115604082
+model_id: m-e5a6257036c146afa323212cc2038395
+model_type: null
+name: LGBClassifier_model
+source_run_id: bb9d08eabc8645b39cf20ec6d5ab1f0c
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DefaultPrediction/mlruns/332320804521650964/facbf82a2e3e4795bb332f2d96f16983/artifacts
+end_time: 1772115575388
+entry_point_name: ''
+experiment_id: '332320804521650964'
+lifecycle_stage: active
+run_id: facbf82a2e3e4795bb332f2d96f16983
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772115518894
+status: 3
+tags: []
+user_id: voltsy
